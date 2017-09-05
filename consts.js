@@ -27,7 +27,9 @@ var thirteenStrings = [
 
     "sharon carter", // Agent 13
 
-    "weedle", //#13 Pokémon
+    "weedle", // #13 Pokémon
+  
+    "unlucky for some", // British bingo nickname
 
     // Imaginary 13's
     "13+0i",
@@ -37,13 +39,13 @@ var thirteenStrings = [
     // B just looks like 13 written closer
     "b",
 
-    //Adding "l" 3, "i"3, |3 and !3 because they basically look like thirteen
+    // Adding "l" 3, "i"3, |3 and !3 because they basically look like thirteen
     "i3",
     "l3",
     "|3",
     "!3",
 
-    //Looks like 13 (flipped horizontally) - E equal to 3
+    // Looks like 13 (flipped horizontally) - E equal to 3
     "ei",
     "e1",
     "el",
